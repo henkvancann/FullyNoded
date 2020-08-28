@@ -249,7 +249,7 @@ drwx--S--- debian-tor debian-tor lightning
 Restart Tor:<br/>
 linux `systemctl restart tor`
 
-## Expected result
+## Expected results
 
 Tor should start and you should be able to **navigate to** your onion address(es) you need for Fully Noded, the example is for subdirectory *main* but it should be done for all subdirectories if relevant for you:<br/>
     * `/usr/local/var/lib/tor/fullynoded/lightning` (the directory for *lightning* we added to the torrc file) and see a file called `hostname`, **open it and copy the onion address, that you need for Fully Noded**. 
