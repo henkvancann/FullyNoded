@@ -49,7 +49,6 @@ HiddenServicePort 1312 127.0.0.1:1312
 
 The syntax is `HiddenServicePort xxxx 127.0.0.1:18332`, `xxxx` represents a synthetic port (virtual port), that means it doesn't matter what number you assign to `xxxx`. However, to make it simple just keep the ports the same.
 
-
 - Save and close nano with `ctrl x` + `y` + `enter` to save and exit nano (follow the prompts)
 - Start Tor by opening a terminal and running `brew services start tor`
 - Tor should start and you should be able to open Finder and **navigate to** your onion address(es) you need for Fully Noded:
