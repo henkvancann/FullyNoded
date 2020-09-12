@@ -1,7 +1,7 @@
 # Deleting Wallets
 
 There are differences in *Fully Noded Wallets* versus *Bitcoin Core Wallets*<br/>
-Text below is originated from [website](https://fullynoded.app/faq/#How-Do-I-Delete-a-Wallet).
+Text below is partly originated from [website](https://fullynoded.app/faq/#How-Do-I-Delete-a-Wallet).
 
 ## There are two fundamental wallet types you can access in Fully Noded:
 
